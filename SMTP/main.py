@@ -168,4 +168,3 @@ if FL == "SEND":
   sending_msg_smtp()
 elf FL == "DEL":
   deleting_msg_pop3()
-i
